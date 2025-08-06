@@ -1,0 +1,24 @@
+Sales products
+Step 1: Create the Example Table
+Step 2: Insert Sample Data
+
+1.Find total quantity sold by each salesperson.
+2.Find salespersons who sold more than 5 items in total.
+3.Find number of products sold by each salesperson.
+4.List regions where total sale amount exceeded $1000.
+5.Show salespersons who made more than 2 sales transactions.
+6.Find total sale amount by product, and show only products that made over $500 in sales.
+7.Show the total quantity sold of each product in each region.
+8.Find salespersons who sold more than 1 type of product.
+9.Find the average quantity per product sold per region, where the average is greater than 1.
+10.Show salespersons whose total sale amount is between $500 and $1500.
+11.List top-performing products (more than 3 units sold in total).
+12.List salespersons who sold laptops.
+13.Find total sale amount per salesperson per region, only where it exceeds $500.
+14.Find salespersons who sold at least 2 different products in a single region.
+15.Find products that were sold in more than one region.
+16.Show total number of sales per product and hide products with fewer than 2 sales.
+17.Find region-wise total quantity sold by each salesperson.
+18.Find salespersons who made more than 3 transactions and total sales amount is over $1000.
+19.Find average sale amount per region and show only regions with average above $200.
+20.List regions and products where more than 3 units were sold.
